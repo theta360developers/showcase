@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   about the RICOH THETA 360 camera. This site content is not
   authorized by RICOH, but RICOH does provide sponsorship for this and other
   community projects.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://theta360.guide/showcase/apps" # the base hostname & protocol for your site
+baseurl: "/showcase/apps" # the subpath of your site, e.g. /blog
+url: "http://theta360.guide" # the base hostname & protocol for your site
 twitter_username: theta360dev
 github_username:  theta360developers
 
