@@ -9,7 +9,7 @@
 
 **Desktop Computer programs**
 
-<img src="/uploads/default/original/1X/26f1673a87032d4dc0b20b8c56b4a79afc8ae768.png" width="100" height="102"> Our most popular desktop computer program for September - November!
+Our most popular desktop computer program for September - November!
 
 * [Kolor panotour](http://www.kolor.com/panotour/) is a cross-platform panoramic imagery solution with a powerful hotspot editor. Kolor produces panorama software, virtual tour software, video-stitching software and a full range of hardware products. Recently joined GoPro. Take a look at their [gallery](http://www.kolor.com/panotour/panotour-gallery/).
 
@@ -34,7 +34,7 @@ Other Desktop Computer Programs
 
 **Online Programs**
 
-<img src="/uploads/default/original/1X/26f1673a87032d4dc0b20b8c56b4a79afc8ae768.png" width="100" height="102"> Our most popular online program for October - December!
+Our most popular online program for October - December!
 
 * [Scandy.co](http://www.scandy.co) - 3D print 360 pictures. Upload or capture a traditional or 360 panorama and order a 3D printed Scandy Sphere. Their process involves hand-finishing everything that comes through their printers.
 
@@ -68,7 +68,7 @@ Other Online Programs
 
 **Mobile Applications**
 
-<img src="/uploads/default/original/1X/26f1673a87032d4dc0b20b8c56b4a79afc8ae768.png" width="100" height="102"> Our most popular mobile application for August - October!
+Our most popular mobile application for August - October!
 
 * HDR 360 Bracket Pro is a paid app for [iOS](https://itunes.apple.com/us/app/hdr-360-bracket-pro-for-ricoh/id987157511?mt=8) that uses the Ricoh THETA SDK to offer exposure customization and special settings for shooting at night
 
