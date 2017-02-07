@@ -3,17 +3,17 @@
 <generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2017-02-07T12:56:38-08:00</updated>
+<updated>2017-02-07T13:12:45-08:00</updated>
 <id>http://localhost:4000/</id>
 <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle>
 <entry>
-<title>Apps</title>
-<link href="http://localhost:4000/2017/02/07/apps.html" rel="alternate" type="text/html" title="Apps" />
+<title>THETA List of Apps</title>
+<link href="http://localhost:4000/apps/2017/02/07/apps.html" rel="alternate" type="text/html" title="THETA List of Apps" />
 <published>2017-02-07T00:00:00-08:00</published>
 <updated>2017-02-07T00:00:00-08:00</updated>
-<id>http://localhost:4000/2017/02/07/apps</id>
-<content type="html" xml:base="http://localhost:4000/2017/02/07/apps.html">&lt;p&gt;&lt;strong&gt;Most Popular THETA App Overall&lt;/strong&gt;&lt;/p&gt;
+<id>http://localhost:4000/apps/2017/02/07/apps</id>
+<content type="html" xml:base="http://localhost:4000/apps/2017/02/07/apps.html">&lt;p&gt;&lt;strong&gt;Most Popular THETA App Overall&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://kuula.co/about&quot;&gt;Kuula&lt;/a&gt; is a cross-platform web app with several features like a tiny planet editor and lens flare effect; upload, edit, and share 360 images with mobile and virtual reality support&lt;/li&gt;
@@ -166,6 +166,9 @@
 
 &lt;p&gt;&lt;img src=&quot;https://ga-beacon.appspot.com/UA-73311422-5/showcase-apps&quot; alt=&quot;Analytics&quot; /&gt;&lt;/p&gt;
 </content>
+<author>
+<name>Craig Oda</name>
+</author>
 <summary>Most Popular THETA App Overall</summary>
 </entry>
 </feed>
