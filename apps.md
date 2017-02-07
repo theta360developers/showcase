@@ -131,3 +131,7 @@ Other Mobile Applications
 [Android](https://play.google.com/store/apps/details?id=com.vird.vanish360)
 
 Part of this list was organized by [RICOH THETA Facebook Group](https://www.facebook.com/groups/RicohTHETAUsers/) community member Fabio Penna. If you'd like to add an app, just post in in the comments and I'll add it here :grin:.
+
+---
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/showcase-apps)
