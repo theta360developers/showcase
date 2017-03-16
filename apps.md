@@ -11,9 +11,6 @@
 
 * [Kolor panotour](http://www.kolor.com/panotour/) is a cross-platform panoramic imagery solution with a powerful hotspot editor. Kolor produces panorama software, virtual tour software, video-stitching software and a full range of hardware products. Recently joined GoPro. Take a look at their [gallery](http://www.kolor.com/panotour/panotour-gallery/).
 
-----------
-Previous winners
-
 * [Hugin](http://hugin.sourceforge.net/) is a cross-platform imaging toolchain for stitching panoramas and straightening images on a computer. See Carl Bennett tutorial in the [documents area](https://www.facebook.com/notes/ricoh-theta-users-on-facebook/straightening-360-images-using-hugin/1616917718526418) or check out some [screenshots](http://hugin.sourceforge.net/screenshots/). Hugin also has some amazing tools for [perspective correction](http://hugin.sourceforge.net/tutorials/perspective/en.shtml) and [building surveying](http://hugin.sourceforge.net/tutorials/surveying/en.shtml) for architecture or design purposes.
 
 Other Desktop Computer Programs
@@ -33,10 +30,6 @@ Other Desktop Computer Programs
 **Online Programs**
 
 * [Scandy.co](http://www.scandy.co) - 3D print 360 pictures. Upload or capture a traditional or 360 panorama and order a 3D printed Scandy Sphere. Their process involves hand-finishing everything that comes through their printers.
-
-----------
-
-Previous Winners
 
 * [Kuula](https://kuula.co/about) is a cross-platform web app with several features like a tiny planet editor and lens flare effect; upload, edit, and share 360 images with mobile and virtual reality support
 
