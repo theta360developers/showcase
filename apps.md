@@ -69,6 +69,7 @@ Other Online Programs
 ----------
 Other Mobile Applications
 
+* Rollworld - Create photos or videos with "Little Planet" effect (also know as "Stereographic," "Tiny Planet," "Little World") [iOS](https://itunes.apple.com/us/app/rollworld-tiny-planet-photos-and-more/id867960225?mt=8)
 * Theta HDR - to take HDR Pictures
 [Android](https://play.google.com/store/apps/details?id=air.de.pl.ThetaHDRApp) [Android2](https://play.google.com/store/apps/details?id=com.teapps.thetahdr) [iOS](https://itunes.apple.com/us/app/ricoh-theta-hdr/id1034724545?mt=8)
 * [Ricoh Theta S Remote Control](http://www.tequnique.com/thetasremote.php) - control THETA over WiFi, shutter time, ISO, time-lapse, exposure control, HDR filters, and sound
