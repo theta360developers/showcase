@@ -32,8 +32,6 @@ Other Desktop Computer Programs
 
 **Online Programs**
 
-Our most popular online program for October - December!
-
 * [Scandy.co](http://www.scandy.co) - 3D print 360 pictures. Upload or capture a traditional or 360 panorama and order a 3D printed Scandy Sphere. Their process involves hand-finishing everything that comes through their printers.
 
 ----------
@@ -65,8 +63,6 @@ Other Online Programs
 * [Momento360](https://www.momento360.com/) - upload, view, and share 360 photos and videos
 
 **Mobile Applications**
-
-Our most popular mobile application for August - October!
 
 * HDR 360 Bracket Pro is a paid app for [iOS](https://itunes.apple.com/us/app/hdr-360-bracket-pro-for-ricoh/id987157511?mt=8) that uses the Ricoh THETA SDK to offer exposure customization and special settings for shooting at night
 
