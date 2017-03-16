@@ -9,8 +9,6 @@
 
 **Desktop Computer programs**
 
-Our most popular desktop computer program for September - November!
-
 * [Kolor panotour](http://www.kolor.com/panotour/) is a cross-platform panoramic imagery solution with a powerful hotspot editor. Kolor produces panorama software, virtual tour software, video-stitching software and a full range of hardware products. Recently joined GoPro. Take a look at their [gallery](http://www.kolor.com/panotour/panotour-gallery/).
 
 ----------
